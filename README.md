@@ -31,5 +31,7 @@ x<sub>4</sub> = Absolute Visual Magnitude
 
 Furthermore, it seems that the maximum accuracy of around 92% is gained when using exactly 75% of the dataset. As we increase or decrease the dataset used for the model, our accuracy decreases.
 
+Admittedly, my project is quite short and simple. This overall took me about 90-120 minutes to complete, and I would like to mention why exactly I didn't spend more time than this. Over break, I've become fascinated by neural networks and deep learning- this is why I want to be apart of the ROVer Optometry research group. I've been spending most of my time attempting to understand the inner workings of neural networks alongside [this](https://nnfs.io/) resource.  
+
 ### What I learned & Looking to the Future
 What I learned throughout this project was how to use Linear Regression on a dataset using the sklearn machine learning library. Overall, it was a super enjoyable experience, and I now understand how people are coming up with these types of things. In the future, I wish to really delve into how I can implement machine learning models using categorical data, and I would love to know why exactly 75% of the dataset renders the highest accuracy.
