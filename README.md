@@ -23,7 +23,7 @@ Using the second video mentioned, I created my independent and dependent variabl
 # Final Thoughts
 
 ### Additional Information 
-I would like to mention that our predicted variable starType can be modeled using the equation y = 0.00000818955718x<sub>1</sub> + -0.0000000792628656x<sub>2</sub> + 0.000468443580x<sub>3</sub> + -0.139032098x<sub>4</sub> + 2.9207251323827137  
+I would like to mention that our predicted variable starType can be modeled using the equation y = 0.0000152482590x<sub>1</sub> + -0.000000385217577x<sub>2</sub> + 0.000544613271x<sub>3</sub> + -0.136426009x<sub>4</sub> + 2.906325081589083  
 x<sub>1</sub> = Temperature  
 x<sub>2</sub> = Luminosity  
 x<sub>3</sub> = Radius  
